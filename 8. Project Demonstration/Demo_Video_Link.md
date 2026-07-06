@@ -11,4 +11,4 @@ Rising Waters – AI Flood Prediction System
 
 ## Demo Video
 
-https://drive.google.com/file/d/1TAMKbrIGULUSFxKJ2sQu6hU_Pifd7yHV/view?usp=sharing
+https://1drv.ms/v/c/2bb41c544dbcd37c/IQCanD6rgC7jS5AEwrKwq4dUAdGTZoweJp8yB_b3DSCXVFQ?e=yLEiYh
