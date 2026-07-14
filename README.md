@@ -35,4 +35,4 @@ This project predicts flood risk using Machine Learning based on environmental a
 
 ## Demo Video
 
-https://drive.google.com/file/d/1TAMKbrIGULUSFxKJ2sQu6hU_Pifd7yHV/view?usp=sharing
+https://drive.google.com/file/d/1rHRtQWSIsIAv_np_Jv31CiE229C7BHNM/view?usp=sharing
