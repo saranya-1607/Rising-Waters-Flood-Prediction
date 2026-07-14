@@ -1,11 +1,11 @@
 # Rising Waters – AI Flood Prediction System
 
 ## Team Members
-- Shaik Daimel Basith
-- K. Prasamhita
-- D. Keerthi Priya
-- K. Venkata Prahladu
-- A. Shanmukha Rao
+-A Saranya 
+-N Balaji
+-E C Durga
+-Jeevitha Varadaraju
+-Shaik Ismail
 
 ## Abstract
 This project predicts flood risk using Machine Learning based on environmental and geographical parameters.
