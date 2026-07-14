@@ -55,7 +55,7 @@ README.md
 Clone the repository
 
 ```
-git clone https://github.com/BASITH2602/Rising-Waters-Flood-Prediction.git
+git clone https://github.com/saranya-1607/Rising-Waters-Flood-Prediction/.git
 ```
 
 Install dependencies
@@ -116,12 +116,12 @@ The XGBoost model achieved the best performance and was selected for deployment.
 
 ## 👨‍💻 Developed By
 
-- **Shaik Daimel Basith**
-- **Kadali Prasamhita**
-- **Devupalli Keerthi Priya**
-- **Karlagunta Venkata Prahladu**
-- **Andaluri Shanmukha Rao**
+- **A Saranya**
+- **N Balaji**
+- **E C Durga**
+- **Jeevitha Varadaraju**
+- **Shaik Ismail**
 
-B.Tech CSE (AI & ML)
+B.Tech CSE
 
-ANITS
+

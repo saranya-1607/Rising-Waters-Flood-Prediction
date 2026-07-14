@@ -1,11 +1,12 @@
 # Rising Waters – AI Flood Prediction System
 
 ## Team Members
--A Saranya 
--N Balaji
--E C Durga
--Jeevitha Varadaraju
--Shaik Ismail
+
+1. A Saranya
+2. N Balaji
+3. E C Durga
+4. Jeevitha Varadaraju
+5. Shaik Ismail
 
 ## Abstract
 This project predicts flood risk using Machine Learning based on environmental and geographical parameters.
