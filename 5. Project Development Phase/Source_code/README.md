@@ -96,7 +96,9 @@ The XGBoost model achieved the best performance and was selected for deployment.
 <img width="1152" height="1080" alt="Screenshot 2026-06-28 010207" src="https://github.com/user-attachments/assets/9d912ef1-48fa-4fd4-bd6c-41e7fb0f3ae3" />
 <img width="1152" height="1080" alt="Screenshot 2026-06-28 010257" src="https://github.com/user-attachments/assets/2e9c163e-c7b1-41eb-8dce-7d04919a858b" />
 <img width="305" height="612" alt="Screenshot 2026-06-28 010407" src="https://github.com/user-attachments/assets/a26fa897-a065-476e-8668-48c7a36f0447" />
-<img width="1152" height="1080" alt="Screenshot 2026-06-28 010811" src="https://github.com/user-attachments/assets/908d695f-afc9-4051-ae94-55f5c8b4d29f" />
+
+<img width="771" height="182" alt="Screenshot 2026-06-28 011033" src="https://github.com/user-attachments/assets/265135cb-2cc3-48a3-b577-e7a8fa9e227a" />
+
 
 
 
